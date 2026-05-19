@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Hannah E. Kessenich / Portfolio"
 title_separator          : "-"
 name                     : &name "Dr. Hannah E. Kessenich"
@@ -27,10 +27,10 @@ author:
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Dunedin, New Zealand"
+  employer         : "University of Otago"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "hannah.kessenich@otago.ac.nz" 
 
   # Academic websites
   academia         : # URL
