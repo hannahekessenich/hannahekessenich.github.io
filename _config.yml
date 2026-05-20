@@ -24,9 +24,9 @@ repository               : "hannahekessenich/website"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  name             : "Dr. Hannah E. Kessenich"
+  pronouns         : "she/her"  
+  bio              : "Postdoctoral Fellow"
   location         : "Dunedin, New Zealand"
   employer         : "University of Otago"
   uri              : # URL
